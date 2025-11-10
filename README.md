@@ -10,7 +10,7 @@ A Flask-based web app that simulates blockchain technology for secure rental agr
 |----------------|---------|------------|----------|----------------|
 | Jahnavi Goyal  | 14045   | BTech CE   | 5th      | CS             |
 | Mahi Patel     | 14053   | BTech CE   | 5th      | SE             |
-| Het Kansagara  | 14053   | BTech CE   | 5th      | SE             |
+| Het Kansagara  | 14105   | BTech CE   | 5th      | SE             |
 
 ---
 ## 🎯 Project Background
